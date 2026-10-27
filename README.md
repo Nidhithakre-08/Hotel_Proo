@@ -12,7 +12,8 @@ A full-stack hotel booking website with a separate admin panel. Customers can se
 
 | Home / Discover | Hotel listing |
 |---|---|
-| ![Home page](docs/screenshots/01-home.png) | ![Hotel listing](docs/screenshots/08-hotel-listing.png) |
+| ![Home page](<img width="1359" height="599" alt="01-home" src="https://github.com/user-attachments/assets/1ea71bdb-799a-4713-bf61-64e3079abdca" />
+) | ![Hotel listing](docs/screenshots/08-hotel-listing.png) |
 | Search by city or hotel name, check-in / check-out dates and guests. | Browse hotels with star rating, amenities and the starting price per night. |
 
 | Hotel details | Create account |
