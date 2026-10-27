@@ -179,27 +179,3 @@ Payments are **simulated**. No real money moves. Only the card brand and the las
 ## Author
 
 Made by [Nidhi Thakre](https://github.com/Nidhithakre-08).
-
-## Interface
-
-### Customer site
-
-![Home page](<img width="1359" height="599" alt="01-home" src="https://github.com/user-attachments/assets/f85db9be-1692-42c6-b54b-c7a0dc189af0" />
-)
-
-
-### Booking and payment
-
-![Payment step](<img width="1314" height="590" alt="10-payment" src="https://github.com/user-attachments/assets/89427abf-84a9-47b9-9e25-778b89ad70ca" />
-)
-
-### Admin panel
-
-![Admin sign in](<img width="1346" height="599" alt="02-admin-signin" src="https://github.com/user-attachments/assets/27d9f2e1-b017-416c-8dc1-c0c6903c3cad" />
-)
-
-![Admin dashboard](<img width="1358" height="599" alt="04-admin-dashboard" src="https://github.com/user-attachments/assets/723578d2-5b0f-4fb1-8390-72f5dbe60f41" />
-)
-
-![Add hotel](<img width="1326" height="597" alt="05-admin-add-hotel" src="https://github.com/user-attachments/assets/ee6d232e-06d2-419e-946b-4accfade015b" />
-)
