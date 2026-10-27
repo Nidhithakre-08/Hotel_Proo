@@ -187,14 +187,6 @@ Made by [Nidhi Thakre](https://github.com/Nidhithakre-08).
 ![Home page](<img width="1359" height="599" alt="01-home" src="https://github.com/user-attachments/assets/f85db9be-1692-42c6-b54b-c7a0dc189af0" />
 )
 
-![Hotel listing](<img width="1362" height="602" alt="08-hotel-listing" src="https://github.com/user-attachments/assets/31b7211a-9a16-4413-9d77-3b17d2c1a552" />
-)
-
-![Hotel details](<img width="1359" height="595" alt="09-hotel-details" src="https://github.com/user-attachments/assets/260fcf1f-0cd5-41fd-8b73-7df9a5e80542" />
-)
-
-![Create account](<img width="1336" height="596" alt="03-create-account" src="https://github.com/user-attachments/assets/f482affa-0845-4381-9767-6689da80a595" />
-)
 
 ### Booking and payment
 
@@ -210,10 +202,4 @@ Made by [Nidhi Thakre](https://github.com/Nidhithakre-08).
 )
 
 ![Add hotel](<img width="1326" height="597" alt="05-admin-add-hotel" src="https://github.com/user-attachments/assets/ee6d232e-06d2-419e-946b-4accfade015b" />
-)
-
-![Manage rooms](<img width="1344" height="602" alt="06-admin-rooms" src="https://github.com/user-attachments/assets/7bc9a75f-bed7-43d5-addb-73d0764705e3" />
-)
-
-![Booking details](<img width="1350" height="603" alt="07-admin-booking-details" src="https://github.com/user-attachments/assets/06cd7c64-7006-4cd4-b65b-e08a357e49cf" />
 )
