@@ -179,3 +179,41 @@ Payments are **simulated**. No real money moves. Only the card brand and the las
 ## Author
 
 Made by [Nidhi Thakre](https://github.com/Nidhithakre-08).
+
+## Interface
+
+### Customer site
+
+![Home page](<img width="1359" height="599" alt="01-home" src="https://github.com/user-attachments/assets/f85db9be-1692-42c6-b54b-c7a0dc189af0" />
+)
+
+![Hotel listing](<img width="1362" height="602" alt="08-hotel-listing" src="https://github.com/user-attachments/assets/31b7211a-9a16-4413-9d77-3b17d2c1a552" />
+)
+
+![Hotel details](<img width="1359" height="595" alt="09-hotel-details" src="https://github.com/user-attachments/assets/260fcf1f-0cd5-41fd-8b73-7df9a5e80542" />
+)
+
+![Create account](<img width="1336" height="596" alt="03-create-account" src="https://github.com/user-attachments/assets/f482affa-0845-4381-9767-6689da80a595" />
+)
+
+### Booking and payment
+
+![Payment step](<img width="1314" height="590" alt="10-payment" src="https://github.com/user-attachments/assets/89427abf-84a9-47b9-9e25-778b89ad70ca" />
+)
+
+### Admin panel
+
+![Admin sign in](<img width="1346" height="599" alt="02-admin-signin" src="https://github.com/user-attachments/assets/27d9f2e1-b017-416c-8dc1-c0c6903c3cad" />
+)
+
+![Admin dashboard](<img width="1358" height="599" alt="04-admin-dashboard" src="https://github.com/user-attachments/assets/723578d2-5b0f-4fb1-8390-72f5dbe60f41" />
+)
+
+![Add hotel](<img width="1326" height="597" alt="05-admin-add-hotel" src="https://github.com/user-attachments/assets/ee6d232e-06d2-419e-946b-4accfade015b" />
+)
+
+![Manage rooms](<img width="1344" height="602" alt="06-admin-rooms" src="https://github.com/user-attachments/assets/7bc9a75f-bed7-43d5-addb-73d0764705e3" />
+)
+
+![Booking details](<img width="1350" height="603" alt="07-admin-booking-details" src="https://github.com/user-attachments/assets/06cd7c64-7006-4cd4-b65b-e08a357e49cf" />
+)
